@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imajkumar
-- 👀 I’m interested in ...
-- 🌱 I’m currently working  ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ERP | Ecommerce |Lead Management | MLM | Real time dataabse application
+- 🌱 I’m currently working  ECommerce and Social Application
+- 💞️ I’m looking to collaborate on Social Application
 - 📫 How to reach me .. contact : imajkumar@hotmail.com
 
 <!---
